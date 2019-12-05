@@ -20,4 +20,17 @@
 * application:   仅适用于Web环境下的ApplicationContext,表示在ServletContext生命周期内会拥有一个单独的实例
 
 
+## SpringBoot的自动配置:
+### 主要通过@EnableAutoConfiguration,@Conditional,@EnableConfigurationProperties或者@ConfigurationProperties等几个注解来进行自动配置完成的
+* @EnableAutoConfiguration:开启自动配置,主要作用就是调用Spring-Core包里的loadFactoryName(),将autoconfig包里的写好的自动配置加载进来
+* @Conditional:条件注解,通过判断类路径下有没有相应配置的jar包来确定是否加载和自动配置这个类
+* @EnableConfigurationProperties:给自动配置提供具体的配置参数,只需要写在application.properties中,就可以通过映射写入配置类的POJO属性中
 
+#### BeanFactory是Spring中比较原始的Factory,无法支持Spring的插件
+
+* BeanFactory是接口,提供了IOC容器最基本的形式
+* FactoryBean也是接口,为IOC容器中Bean的实现提供了更加灵活的方式
+* 在Spring中,所有的Bean都是由BeanFactory来进行管理的
+* FactoryBean是一个能生产或者修饰对象生成的工厂Bean
+* 在Spring中,BeanFactory是IOC容器的核心接口,他的职责包括:实例化,定位,配置应用程序中的对象以及建立这些对象间的依赖
+* 一般情况下,Spring通过反射机制利用<bean>的class属性指定实现类实例化Bean,Spring提供了FactoryBean的工厂类接口,用户可以通过实现该接口定制实例化Bean的逻辑
