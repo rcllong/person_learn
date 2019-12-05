@@ -8,6 +8,8 @@
 
 ### [Istio](https://github.com/rcllong/person_learn/blob/master/learn/Istio.md)
 
+### [算法](https://github.com/rcllong/person_learn/blob/master/learn/%E7%AE%97%E6%B3%95.md)
+
 ### [Java](https://github.com/rcllong/person_learn/blob/master/learn/Java%E7%9B%B8%E5%85%B3.md)
 
 ### [Spring](https://github.com/rcllong/person_learn/blob/master/learn/Spring.md)
