@@ -12,6 +12,8 @@
 
 ### [Spring](https://github.com/rcllong/person_learn/blob/master/learn/Spring.md)
 
+### [中间件](https://github.com/rcllong/person_learn/blob/master/learn/%E4%B8%AD%E9%97%B4%E4%BB%B6.md)
+
 ### [微服务](https://github.com/rcllong/person_learn/blob/master/learn/%E5%BE%AE%E6%9C%8D%E5%8A%A1.md)
 
 ### [数据库](https://github.com/rcllong/person_learn/blob/master/learn/%E6%95%B0%E6%8D%AE%E5%BA%93.md)
