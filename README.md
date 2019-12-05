@@ -8,3 +8,5 @@
 ### [码出高效读书笔记](https://github.com/rcllong/person_learn/blob/master/learn/%E7%A0%81%E5%87%BA%E9%AB%98%E6%95%88%E7%AC%94%E8%AE%B0.md)
 
 ### [Netty学习笔记](https://github.com/rcllong/person_learn/blob/master/learn/Netty%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+### [RocketMQ](https://github.com/rcllong/person_learn/blob/master/learn/RocketMQ.md)
