@@ -1,14 +1,12 @@
-# 每天进步一小点
-
-### 仅以此笔记勉励自己不忘初心
+# 每天进步一小点 仅以此笔记勉励自己不忘初心
 
 ### [JVM](https://github.com/rcllong/person_learn/blob/master/learn/jvm%E5%AD%A6%E4%B9%A0.md)
 
-### [码出高效](https://github.com/rcllong/person_learn/blob/master/learn/%E7%A0%81%E5%87%BA%E9%AB%98%E6%95%88%E7%AC%94%E8%AE%B0.md)
-
 ### [Istio](https://github.com/rcllong/person_learn/blob/master/learn/Istio.md)
 
-### [算法](https://github.com/rcllong/person_learn/blob/master/learn/%E7%AE%97%E6%B3%95.md)
+### [RocketMQ](https://github.com/rcllong/person_learn/blob/master/learn/RocketMQ.md)
+
+### [Netty](https://github.com/rcllong/person_learn/blob/master/learn/Netty%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 ### [Java](https://github.com/rcllong/person_learn/blob/master/learn/Java%E7%9B%B8%E5%85%B3.md)
 
@@ -20,6 +18,8 @@
 
 ### [网络通信](https://github.com/rcllong/person_learn/blob/master/learn/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1.md)
 
-### [RocketMQ](https://github.com/rcllong/person_learn/blob/master/learn/RocketMQ.md)
+### [算法](https://github.com/rcllong/person_learn/blob/master/learn/%E7%AE%97%E6%B3%95.md)
 
-### [Netty](https://github.com/rcllong/person_learn/blob/master/learn/Netty%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+### [码出高效](https://github.com/rcllong/person_learn/blob/master/learn/%E7%A0%81%E5%87%BA%E9%AB%98%E6%95%88%E7%AC%94%E8%AE%B0.md)
+
+
